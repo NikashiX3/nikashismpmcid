@@ -7,7 +7,7 @@ If something doesn't work please contact me on discord (Astronawta#0012).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "Nikashi SMP", /*Server name*/
+        serverName: "Nikashi Network", /*Server name*/
         serverIp: "slime.skyes.id:7026", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
         discordServerID: "1278672938064941126" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
@@ -91,7 +91,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "nikashismp@gmail.com"
+        email: "nikashinetwork@gmail.com"
     }
 }
 
