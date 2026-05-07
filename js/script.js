@@ -74,7 +74,7 @@ const config = {
                 rankColor: "rgba(6, 152, 255, 1)"
             },
             {
-                inGameName: "ARGAMER37018",
+                inGameName: "FathirARG",
                 rank: "Pengatur",
                 skinUrlOrPathToFile: "https://vzge.me/bust/256/iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEUAAAA9Ak89Ak/Cqg/hAP+PANI9Ak8hAil6QL0AAAAAA3RSTlMAAQWTBwEQAAAAcklEQVR42mMAgVAoYMAChr8ChGRqaGgYsiJmZgMDFAVpQIRQwGxsbOJsbGyAZjxCAVSGGYcCrG4oDQ0Nx60ArAIoj1dBeTkeBWgAR0jAaGQ2/RSE4gGjCuinYBRQBJiGhS8E8RWnCJr+CjAT76gCuisAAAchEd3unDQSAAAAAElFTkSuQmCC",
                 rankColor: "rgba(6, 152, 255, 1)"
