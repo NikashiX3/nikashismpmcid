@@ -57,14 +57,14 @@
 }
 
 #header .content .left .server-name p {
-    color: var(--white-color);
+    color: var(--main-color);
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 600;
 }
 
 #header .content .left .server-name h1 {
-    color: var(--main-color);
+    color: var(--white);
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 900;
