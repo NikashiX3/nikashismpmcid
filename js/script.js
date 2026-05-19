@@ -68,12 +68,6 @@ const config = {
                 rankColor: "rgba(6, 152, 255, 1)"
             },
             {
-                inGameName: "ChaacaaAllysa",
-                rank: "Pengatur",
-                skinUrlOrPathToFile: "https://vzge.me/bust/256/iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAhFBMVEUAAAAhHicrJTMwMK0xJ3g1i8s/SshANUtEK19MPlVNMixONbhStNRTQo9nWkVqTq9y0+B4T9F/U7uGXr2O5uidb8qia+CipM6qnH6yiNa9MbnCt3LE0OLZkTnbS7fntEvqjnTrkU3seLvt4dfwvpf01lz3+/v658P68G7889n+/fT///8fUMwlAAAAAXRSTlMAQObYZgAAAzhJREFUWMPNlot24iAQhmNCl9qsxTSN0RRJbAOx6/u/386F3KrWqGcvvxwSOfBlYBiYIPDKvJRaUAmuVZaloHsAG1K28LrBgm4KoNumoBRPoapuA2S4BBkMR10/hRQMABPSmsbX9dUA5VU3qFpduXip6pRmI00HpKQbABv4EQAQigHUBBU+h12XpwFqk9HAKoWCIGrCip9tx2CzDFpE2w4fSDOVMeCpqp4YAE0pt2dpu8bpJti8BtnPh+M1WGRZ06j08bmunh+Vahpqogqf+KXPQOFcXoNg+QB/xhakC3S+Sn+9fTZvny+qqqmJKij8mW72y4dj/2P01bX3/4uqORpPR+XraU8koCiKRPt/W5K22G5Abbu11rmPU4A8z2UYhh1guxUCqskAcwQQdQ0EY3Se6yS5DNCHXErZA0oElABwee4uAMhIDR3zHC1OtigP4HdeDzvSV4BzGtQDQljSKGQAj9javdnt9sbYnYXyDaAsi6II4bvbMI5j+DYDSrODftbAw9p+WRFgx4A4BoBAL4iY3hkQozdM4TUGAEFrBlgP0OUsLDUD4LvYbAaEkQU43kROCC3QAEtTEmEoQ+F3QVHEcZI4lPZyYwA4J9JakAUMcHImpfOA9/fVishkH6p3LPvW2rmcgaCLZUAkQykjDzCGFhdWNO40AEgWAmB4KI8tYEDDwUZqmq+AcMaScwYU7nBw8RUAiZEAghcexDEwBNAiug+SGy5i1AOEgP3HgzgGJgF6UhTcpz6a/xVgPg/+J/2gcocslakaRSe7FAHRHYBDVw06YWDy+7u5BPjRVdMmbA+XLeDzoD1H/7wb51T+IuDubdwC7grpwWB0OR4ug4P3zCFyJpzhojV4wN0DSK4HDBYyP+gED9jrAINsJXe6O1DP5gVnAXT39ZeKXcMO3q/Xyd7C6y2AZE1RgI/kG0AXH18B7XXKucNUACUblIqYwXgg+E4r/rs6CYBEQTi4oCxNwPPgrgRpfdaAQwewkCjoyCGAUgefklgqRbdV+f/J04Vv6c5xPisqqRRTjicCtHe2tf4+97f7BAAnCiEDIHOZBhhs4zZPaG3w97m/3SecB6IHYLoqLgF+A/snmH2KloyqAAAAAElFTkSuQmCC",
-                rankColor: "rgba(6, 152, 255, 1)"
-            },
-            {
                 inGameName: "FathirARG",
                 rank: "Pengatur",
                 skinUrlOrPathToFile: "https://vzge.me/bust/256/iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEUAAAA9Ak89Ak/Cqg/hAP+PANI9Ak8hAil6QL0AAAAAA3RSTlMAAQWTBwEQAAAAcklEQVR42mMAgVAoYMAChr8ChGRqaGgYsiJmZgMDFAVpQIRQwGxsbOJsbGyAZjxCAVSGGYcCrG4oDQ0Nx60ArAIoj1dBeTkeBWgAR0jAaGQ2/RSE4gGjCuinYBRQBJiGhS8E8RWnCJr+CjAT76gCuisAAAchEd3unDQSAAAAAElFTkSuQmCC",
